@@ -1,0 +1,16 @@
+# PostgreSQL / local files
+*.log
+
+# pgAdmin / editor temporary files
+*.bak
+*.tmp
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Arquivos locais de ambiente
+.env
